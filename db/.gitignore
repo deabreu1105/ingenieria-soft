@@ -1,0 +1,2 @@
+# .gitignore en cada carpeta de microservicio para la rama develop
+!.env
